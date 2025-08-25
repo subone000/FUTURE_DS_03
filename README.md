@@ -21,11 +21,17 @@ It demonstrates real-world **data wrangling, visualization, sentiment analysis, 
 
 ## 📂 Repository Structure  
 Student_Feedback_Analysis/
+
 │── Student_Feedback_Analysis.ipynb # Full Jupyter Notebook with analysis
+
 │── Student_Feedback_Analysis.pdf # report
+
 │── data/
+
 │ ├── feedback.csv # Synthetic dataset
+
 │ └── README.md # Dataset documentation (columns, notes)
+
 │── README.md # Project overview (this file)
 
 ---
@@ -87,5 +93,5 @@ It’s portfolio-ready and directly applicable to roles in:
 
 ---
 
-📬 **Connect with me on [LinkedIn]([https://www.linkedin.com/in/sairam-s-2bb678366/])**  
+📬 **Connect with me on [LinkedIn](https://www.linkedin.com/in/sairam-s-2bb678366/)**  
 
