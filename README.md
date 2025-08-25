@@ -19,21 +19,11 @@ It demonstrates real-world **data wrangling, visualization, sentiment analysis, 
 
 ---
 
-## 📂 Repository Structure  
-Student_Feedback_Analysis/
-
-│── Student_Feedback_Analysis.ipynb # Full Jupyter Notebook with analysis
-
-│── Student_Feedback_Analysis.pdf # report
-
-│── data/
-
-│ ├── feedback.csv # Synthetic dataset
-
-│ └── README.md # Dataset documentation (columns, notes)
-
-│── README.md # Project overview (this file)
-
+## 📂 Files  
+- `Student_Feedback_Analysis.ipynb` → Full Jupyter Notebook  
+- `Student_Feedback_Analysis.pdf` → Final report  
+- `data/` → **Synthetic dataset** (see [`data/README.md`](data/README.md) for details)
+   
 ---
 
 ## 🛠️ Tech Stack  
